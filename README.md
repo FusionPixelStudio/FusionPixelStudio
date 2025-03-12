@@ -1,12 +1,12 @@
 <h3 align="center">Software Developer | Davinci Resolve Scripting Educator @Asher Roland on YouTube</h3>
 
+I'm a software developer who builds custom tools and scripts for DaVinci Resolve and Fusion using Lua, Python, and Electron, focusing on simplifying and speeding up creative workflows. On my YouTube channel, I've grown a community of over 1,000 subscribers by teaching practical scripting techniques, helping creators spend less time coding and more time creating. My goal is always to take complicated processes and turn them into user-friendly, intuitive solutions. Whether it's through developing tools like Snap Captions or collaborating with other DaVinci Resolve creators, I love bringing efficiency to people's creative process and making advanced techniques accessible for everyone.
+
 - 🔭 I’m currently working on **Snap Captions 2.0 Update**
 
 - 👯 I’m looking to collaborate on **More Davinci Resolve Apps and Scripts**
 
 - ⚡ Fun fact **I taught myself how to code and make templates for Davinci Resolve!**
-
-Bridging creativity and code, I'm a software developer who transforms intricate editing workflows into streamlined automation using Lua and Electron. With over 1,000 satisfied customers and a growing YouTube presence, I'm dedicated to empowering the DaVinci Resolve community.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
