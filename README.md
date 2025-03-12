@@ -6,6 +6,8 @@
 
 - ⚡ Fun fact **I taught myself how to code and make templates for Davinci Resolve!**
 
+Bridging creativity and code, I'm a software developer who transforms intricate editing workflows into streamlined automation using Lua and Electron. With over 1,000 satisfied customers and a growing YouTube presence, I'm dedicated to empowering the DaVinci Resolve community.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/asherroland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asherroland" height="30" width="40" /></a>
