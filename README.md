@@ -2,9 +2,9 @@
 
 I'm a software developer who builds custom tools and scripts for DaVinci Resolve and Fusion using Lua, Python, and Electron, focusing on simplifying and speeding up creative workflows. On my YouTube channel, I've grown a community of over 1,000 subscribers by teaching practical scripting techniques, helping creators spend less time coding and more time creating. My goal is always to take complicated processes and turn them into user-friendly, intuitive solutions. Whether it's through developing tools like Snap Captions or collaborating with other DaVinci Resolve creators, I love bringing efficiency to people's creative process and making advanced techniques accessible for everyone.
 
-- 🔭 I’m currently working on **Snap Captions 2.0 Update**
+- 🔭 I’m currently working on the **Snap Captions 2.0 Update**
 
-- 👯 I’m looking to collaborate on **More Davinci Resolve Apps and Scripts**
+- 👯 I’m looking to collaborate on **More Davinci Resolve Apps and Scripts with other content creators and business**
 
 - ⚡ Fun fact **I taught myself how to code and make templates for Davinci Resolve!**
 
